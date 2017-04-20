@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DimBadn</string>
+    <string name="choice_value_from_spinner">Выберите значение из выпадающего списка. Введите числовые значение в поля ввода. Для получения результата нажмите кнопку \"Рассчитать\". Результатом будет произведение значения из выпадающего спика и суммы введённых чисел.</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="value1">Первое число </string>
+    <string name="value2">Второе число</string>
+    <string name="value3">Третье число</string>
+    <string name="reset">Сброс</string>
+</resources>

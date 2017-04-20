@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="options">
+        <item>Умножить на 1</item>
+        <item>Умножить на 2</item>
+        <item>Умножить на 3</item>
+        <item>Умножить на 4</item>
+        <item>Умножить на 5</item>
+    </string-array>
+</resources>
